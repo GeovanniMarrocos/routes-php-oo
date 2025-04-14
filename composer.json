@@ -1,0 +1,16 @@
+{
+    "name": "geovanni/routes-php",
+    "version": "2.7.7",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "GeovanniMarrocos",
+            "email": "geovanni.marrocos@gmail.com"
+        }
+    ],
+    "require": {}
+}
