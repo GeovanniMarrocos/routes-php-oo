@@ -1,5 +1,4 @@
 <?php 
-use Exception;
 
 function load(string $controller, string $action)
 {
