@@ -21,5 +21,5 @@ try{
     $router[$request][$uri];
 
 } catch (Exception $e){
-    $e->getMessage();
+    echo $e->getMessage();
 }
